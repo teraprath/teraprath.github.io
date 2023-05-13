@@ -1,2 +1,1 @@
-# teraprath.github.io
-GitHub Page
+https://teraprath.github.io
